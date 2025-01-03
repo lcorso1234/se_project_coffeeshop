@@ -1,5 +1,4 @@
-.page {
-  .page {
+.pages {
     min-width: 1100px;
     max-width: 1600px;
     margin: auto;
@@ -7,5 +6,3 @@
     font-size: 16px;
     line-height: 20px;
   }
-
-}
