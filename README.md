@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Coffee videos
+1. Coffee videos
+2. People Drinking coffee
+3. People Laughing with coffee
